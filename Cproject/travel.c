@@ -17,6 +17,7 @@
 
 void Main()
 {
-  
+  SetWindowSize(15,15);
+  SetWindowTitle("浙大旅游网");
   
 }
