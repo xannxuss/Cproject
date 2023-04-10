@@ -1,8 +1,5 @@
 # Cproject
-travel
-
 旅游产品管理系统 
-
 界面参考（不限）：https://www.ctrip.com/ 
 功能要求 
 （1） 基本功能要求  
